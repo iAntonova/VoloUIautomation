@@ -12,14 +12,10 @@ import logging
 
 if __name__ == '__main__':
 
-    has_logging = False
-
     logging.basicConfig(filename = 'tc_01_logs.log',
                             format = '%(asctime)s - %(filename)s ' '%(levelname)s: %(message)s',
                             datefmt='%Y-%m-%d %H:%M:%S', level='INFO')
-
-    has_logging = True
-        
+     
     try:
         logging.info("Loading Chrome")
         driver_c = webdriver.Chrome()

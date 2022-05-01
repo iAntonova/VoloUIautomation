@@ -99,3 +99,14 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 1651422707924	Marionette	INFO	Stopped listening on port 59522
 JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json)
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json)
+1651422873339	geckodriver	INFO	Listening on 127.0.0.1:57498
+1651422876386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofiledASHOo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofiledASHOo\\search.json.mozlz4", (void 0), 220))
+1651422876909	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57499/devtools/browser/3d010e7a-da7c-4306-ba28-7ac136e26fde
+1651422878814	Marionette	INFO	Listening on port 57537
+Read port: 57537
+1651422878863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651422999515	Marionette	INFO	Stopped listening on port 57537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
