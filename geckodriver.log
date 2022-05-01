@@ -110,3 +110,12 @@ Read port: 57537
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
 1651422999515	Marionette	INFO	Stopped listening on port 57537
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651423045477	geckodriver	INFO	Listening on 127.0.0.1:57819
+1651423048519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileURcdMy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileURcdMy\\search.json.mozlz4", (void 0), 220))
+1651423049085	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57820/devtools/browser/15e459a5-074e-40e7-a482-39718ed9d5ea
+1651423050855	Marionette	INFO	Listening on port 57851
+Read port: 57851
+1651423050877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
