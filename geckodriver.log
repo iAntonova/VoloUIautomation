@@ -1,0 +1,101 @@
+1651419661890	geckodriver	INFO	Listening on 127.0.0.1:58880
+1651419664953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileumIjQq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileumIjQq\\search.json.mozlz4", (void 0), 220))
+1651419667036	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58881/devtools/browser/8ee0286a-44ee-45d3-b628-94ec374ab077
+1651419669361	Marionette	INFO	Listening on port 58929
+Read port: 58929
+1651419669881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651419678959	Marionette	INFO	Stopped listening on port 58929
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json)
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json)
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileumIjQq\sessionCheckpoints.json)
+1651419683234	geckodriver	INFO	Listening on 127.0.0.1:59008
+1651419686263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileBH4mw1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileBH4mw1\\search.json.mozlz4", (void 0), 220))
+1651419686853	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59009/devtools/browser/20fe507e-b033-4b4e-8135-3f3368f2485d
+1651419688644	Marionette	INFO	Listening on port 59059
+Read port: 59059
+1651419688721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651419696421	Marionette	INFO	Stopped listening on port 59059
+1651419700416	geckodriver	INFO	Listening on 127.0.0.1:59136
+1651419703448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile0WstmQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile0WstmQ\\search.json.mozlz4", (void 0), 220))
+1651419704118	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59137/devtools/browser/2d397705-16e7-4ba7-b7a0-a1cf280b41f8
+1651419705859	Marionette	INFO	Listening on port 59185
+Read port: 59185
+1651419705947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: can't access property "ownerGlobal", this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: can't access property "ownerGlobal", this._element is null
+1651419715297	Marionette	INFO	Stopped listening on port 59185
+1651420616770	geckodriver	INFO	Listening on 127.0.0.1:62381
+1651420619836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileVqjNEg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileVqjNEg\\search.json.mozlz4", (void 0), 220))
+1651420620371	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62382/devtools/browser/b8a3c1c4-7e5c-4f68-8279-01b6e8fadf46
+1651420622149	Marionette	INFO	Listening on port 62414
+Read port: 62414
+1651420622212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651420721800	Marionette	INFO	Stopped listening on port 62414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"sessionstore-final-state-write-complete":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileVqjNEg\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileVqjNEg\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileVqjNEg\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileVqjNEg\sessionCheckpoints.json)
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651422325264	geckodriver	INFO	Listening on 127.0.0.1:52438
+1651422328314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileF3DQ3u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileF3DQ3u\\search.json.mozlz4", (void 0), 220))
+1651422328975	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:52439/devtools/browser/48b8ab5a-fa70-467e-aeef-8e30f921f5a9
+1651422330844	Marionette	INFO	Listening on port 52472
+Read port: 52472
+1651422330943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651422403363	Marionette	INFO	Stopped listening on port 52472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651422448798	geckodriver	INFO	Listening on 127.0.0.1:55932
+1651422451839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile4wWcRp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile4wWcRp\\search.json.mozlz4", (void 0), 220))
+1651422452379	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55933/devtools/browser/97ee4d69-efde-448b-a4b4-c667ea1b6a14
+1651422454173	Marionette	INFO	Listening on port 55963
+Read port: 55963
+1651422454212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651422511203	Marionette	INFO	Stopped listening on port 55963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofile4wWcRp\sessionCheckpoints.json)
+1651422632906	geckodriver	INFO	Listening on 127.0.0.1:59490
+1651422635950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileZxv6bI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileZxv6bI\\search.json.mozlz4", (void 0), 220))
+1651422636464	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59491/devtools/browser/81fab3ee-bf2f-431e-9d1d-f1c335c1bf85
+1651422638210	Marionette	INFO	Listening on port 59522
+Read port: 59522
+1651422638270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651422707924	Marionette	INFO	Stopped listening on port 59522
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileZxv6bI\sessionCheckpoints.json)

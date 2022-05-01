@@ -1,0 +1,10 @@
+2022-05-01 19:30:31 - TC_01.py INFO: Loading Chrome
+2022-05-01 19:30:32 - TC_01.py INFO: Loading Firefox
+2022-05-01 19:30:38 - TC_01.py INFO: Loading Edge
+2022-05-01 19:30:39 - TC_01.py INFO: Loading successful
+2022-05-01 19:30:50 - TC_01.py INFO: Searching for 'product'
+2022-05-01 19:30:57 - TC_01.py INFO: Text is displayed on the page: True
+2022-05-01 19:31:07 - TC_01.py INFO: Searching for 'product'
+2022-05-01 19:31:14 - TC_01.py INFO: Text is displayed on the page: True
+2022-05-01 19:31:23 - TC_01.py INFO: Searching for 'product'
+2022-05-01 19:31:30 - TC_01.py INFO: Text is displayed on the page: True
