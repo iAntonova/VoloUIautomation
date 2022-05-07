@@ -119,3 +119,32 @@ DevTools listening on ws://localhost:57820/devtools/browser/15e459a5-074e-40e7-a
 Read port: 57851
 1651423050877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651423363343	Marionette	INFO	Stopped listening on port 57851
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileURcdMy\sessionCheckpoints.json)
+1651934011690	geckodriver	INFO	Listening on 127.0.0.1:59070
+1651934014755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile4KembG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile4KembG\\search.json.mozlz4", (void 0), 220))
+1651934015389	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59071
+1651934017670	Marionette	INFO	Listening on port 59097
+DevTools listening on ws://localhost:59071/devtools/browser/91ae363b-d36d-415b-9f54-bc91c337a9b0
+Read port: 59097
+1651934017767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://automationpractice.com"
+1651934031582	Marionette	INFO	Stopped listening on port 59097
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+

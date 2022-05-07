@@ -1,0 +1,32 @@
+2022-05-07 17:33:04,902- INFO-Start test for chrome
+2022-05-07 17:33:04,903- INFO-
+
+2022-05-07 17:33:04,903- INFO-====== WebDriver manager ======
+2022-05-07 17:33:06,535- INFO-Current google-chrome version is 101.0.4951
+2022-05-07 17:33:06,535- INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-07 17:33:06,963- INFO-There is no [win32] chromedriver for browser 101.0.4951 in cache
+2022-05-07 17:33:06,965- INFO-Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+2022-05-07 17:33:08,255- INFO-Driver has been saved in cache [C:\Users\Victoria.Antonova\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+2022-05-07 17:33:25,697- INFO-No result is found
+2022-05-07 17:33:28,369- INFO-Start test for firefox
+2022-05-07 17:33:28,369- INFO-
+
+2022-05-07 17:33:28,370- INFO-====== WebDriver manager ======
+2022-05-07 17:33:30,074- INFO-Current firefox version is 101.0
+2022-05-07 17:33:30,075- INFO-Get LATEST geckodriver version for 101.0 firefox
+2022-05-07 17:33:30,237- INFO-There is no [win64] geckodriver for browser 101.0 in cache
+2022-05-07 17:33:30,237- INFO-Getting latest mozilla release info for v0.31.0
+2022-05-07 17:33:30,396- INFO-Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+2022-05-07 17:33:31,562- INFO-Driver has been saved in cache [C:\Users\Victoria.Antonova\.wdm\drivers\geckodriver\win64\v0.31.0]
+2022-05-07 17:33:51,580- INFO-No result is found
+2022-05-07 17:33:52,786- INFO-Start test for edge
+2022-05-07 17:33:52,786- INFO-====== WebDriver manager ======
+2022-05-07 17:33:54,310- INFO-Current edge version is 101.0.1210
+2022-05-07 17:33:54,310- INFO-Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-07 17:33:54,713- INFO-Detected a SIG or BOM mark on first 2 byte(s). Priority +1 given for utf_16.
+2022-05-07 17:33:54,713- INFO-utf_16 passed initial chaos probing. Mean measured chaos is 0.000000 %
+2022-05-07 17:33:54,713- INFO-utf_16 is most likely the one as we detected a BOM or SIG within the beginning of the sequence.
+2022-05-07 17:33:54,714- INFO-There is no [win64] edgedriver for browser 101.0.1210 in cache
+2022-05-07 17:33:54,714- INFO-Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.39/edgedriver_win64.zip
+2022-05-07 17:33:55,996- INFO-Driver has been saved in cache [C:\Users\Victoria.Antonova\.wdm\drivers\edgedriver\win64\101.0.1210.39]
+2022-05-07 17:34:09,965- INFO-No result is found
