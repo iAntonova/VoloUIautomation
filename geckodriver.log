@@ -1,0 +1,173 @@
+1652119747674	geckodriver	INFO	Listening on 127.0.0.1:56856
+1652119750742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileqialpi"
+1652119850745	geckodriver	INFO	Listening on 127.0.0.1:56792
+1652119853802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile2jGuCw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofile2jGuCw\\search.json.mozlz4", (void 0), 220))
+1652119854375	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56793
+1652119856145	Marionette	INFO	Listening on port 56817
+DevTools listening on ws://localhost:56793/devtools/browser/da7f7a3d-cf0b-446e-9d3f-83277d95146f
+Read port: 56817
+1652119856243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652119868646	Marionette	INFO	Stopped listening on port 56817
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652120898525	geckodriver	INFO	Listening on 127.0.0.1:53095
+1652120901574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileOfSB5h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileOfSB5h\\search.json.mozlz4", (void 0), 220))
+1652120902123	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53096
+1652120903987	Marionette	INFO	Listening on port 53121
+Read port: 53121
+DevTools listening on ws://localhost:53096/devtools/browser/c57d7bdc-c4ee-4c8f-9e18-ee64c6609559
+1652120904034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652120915150	Marionette	INFO	Stopped listening on port 53121
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1652121404145	geckodriver	INFO	Listening on 127.0.0.1:61400
+1652121407200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileEdpBvp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileEdpBvp\\search.json.mozlz4", (void 0), 220))
+1652121407785	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61401
+1652121409573	Marionette	INFO	Listening on port 61425
+DevTools listening on ws://localhost:61401/devtools/browser/53ffa4e5-e693-4ab4-98f6-9afaab84e3de
+Read port: 61425
+1652121409653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652121421317	Marionette	INFO	Stopped listening on port 61425
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileEdpBvp\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileEdpBvp\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileEdpBvp\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileEdpBvp\sessionCheckpoints.json)
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1652121829962	geckodriver	INFO	Listening on 127.0.0.1:57358
+1652121833029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofilekupXDL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofilekupXDL\\search.json.mozlz4", (void 0), 220))
+1652121833666	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57359
+1652121835384	Marionette	INFO	Listening on port 57387
+DevTools listening on ws://localhost:57359/devtools/browser/4716aab6-4f3a-44ab-a2f9-2c33e8371a50
+Read port: 57387
+1652121835480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652121846488	Marionette	INFO	Stopped listening on port 57387
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1652122161654	geckodriver	INFO	Listening on 127.0.0.1:63814
+1652122164724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileZePJ2D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileZePJ2D\\search.json.mozlz4", (void 0), 220))
+1652122165362	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63815
+1652122167008	Marionette	INFO	Listening on port 63837
+Read port: 63837
+1652122167119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63815/devtools/browser/bc591e97-ab24-464d-bbc4-f7da54ceec42
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652122179521	Marionette	INFO	Stopped listening on port 63837
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 25872, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652123278652	geckodriver	INFO	Listening on 127.0.0.1:58044
+1652123281721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileAb9lpA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileAb9lpA\\search.json.mozlz4", (void 0), 220))
+1652123282888	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58045
+1652123284875	Marionette	INFO	Listening on port 58071
+DevTools listening on ws://localhost:58045/devtools/browser/a65b8030-a720-4d0c-99cb-67699c606cd4
+Read port: 58071
+1652123284932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652123296769	Marionette	INFO	Stopped listening on port 58071
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileAb9lpA\sessionCheckpoints.json.tmp) to destination(C:\Users\VICTOR~1.ANT\AppData\Local\Temp\rust_mozprofileAb9lpA\sessionCheckpoints.json)
+1652127059490	geckodriver	INFO	Listening on 127.0.0.1:64061
+1652127062542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileK0Yh4x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VICTOR~1.ANT\\AppData\\Local\\Temp\\rust_mozprofileK0Yh4x\\search.json.mozlz4", (void 0), 220))
+1652127063658	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64062
+1652127065509	Marionette	INFO	Listening on port 64086
+DevTools listening on ws://localhost:64062/devtools/browser/33b48037-e770-4b41-ac9b-1e87149233c6
+Read port: 64086
+1652127065627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80023, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80023, line 564: unreachable code after return statement
+1652127077092	Marionette	INFO	Stopped listening on port 64086
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
